@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YMGOKp1XgsXlMxvcvRX7mXMCeNVIuhIeEC4QEb7QcvCYRqcq7guRZT/DAwGXc7J1KmEMF8zu1oR9e3oNXVagRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kuzmi\\Desktop\\Розр. мультим. та ігр. сист\\Platformer\\Platformer\\Platformer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuzmi\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\kuzmi\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\kuzmi\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
